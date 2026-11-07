@@ -10,6 +10,6 @@ Keywords: campaign,calendar,planning,agentic-suite,cli,mcp.
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-campaign
-- Core contract: https://github.com/pooriaarab/agentic-campaign/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-campaign
+- Core contract: https://github.com/itsryanarmani/agentic-campaign/blob/main/docs/agentic-core.md
 - License: MIT
